@@ -1,5 +1,7 @@
 # Audio Classification CNN (Based on Seth Adams' Tutorial Series)
 
+## [Dataset Repository Link](https://drive.google.com/drive/folders/1pCUtilMXdc-z-3LmDl-1BTnqLj2kgiXk?usp=sharing)
+
 This project implements an end-to-end Audio Classification Convolutional Neural Network (CNN) following **Seth Adams'** tutorial series: [Deep Learning for Audio Classification](https://www.youtube.com/watch?v=Z7YM-HAz-IY&list=PLhA3b2k8R3t2Ng1WW_7MiXeh1pfQJQi_P).
 
 ---
