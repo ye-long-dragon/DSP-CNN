@@ -1,0 +1,20 @@
+# Audio Datasets and Large Archives
+Datasets/
+dataset/
+*.zip
+*.tar.gz
+*.rar
+
+# Model checkpoints & feature caches (>100 MB exceeds GitHub limits)
+*.keras
+*.h5
+*.npz
+*.npy
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Operating system files
+Thumbs.db
+.DS_Store
