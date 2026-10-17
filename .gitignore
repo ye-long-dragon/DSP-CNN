@@ -10,6 +10,8 @@ dataset/
 *.h5
 *.npz
 *.npy
+*.h
+*.tflite
 
 # Python bytecode
 __pycache__/
